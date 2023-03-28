@@ -1,9 +1,18 @@
 body{
-    background-image: url("/Public/golden.jfif");
+    background-image: url(/Public/DOGE12.jpg);
     background-size: cover;
 
 }
-h1 {color: aqua;}
-h2 {color: fuchsia;}
+.carousel, .carousel-inner > .item > img {
+    height: 100px; width: 400px;
+  }
+  h1 {color: rgb(0, 0, 0);}
+  .gif { float: right; width:200px ;}
+  
+
+
+  
+
+
 
 
