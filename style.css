@@ -4,7 +4,7 @@ body{
 
 }
 .carousel, .carousel-inner > .item > img {
-    height: 150px; width: 300px;
+    height: 200px; width: 300px;
   }
   h1 {color: rgb(0, 0, 0);}
   .gif { float: right; width:200px ;}
@@ -30,6 +30,7 @@ body{
 }
 p { 
     font-size: large;
+    sty
 }
 li {
     font-size: large;
