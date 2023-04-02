@@ -5,16 +5,27 @@ body{
 }
 .carousel, .carousel-inner > .item > img {
     height: 200px; width: 300px;
+    border : 5px groove salmon
   }
-  h1 {color: rgb(0, 0, 0);}
-  .gif { float: right; width:200px ;}
+  h1 {color: rgb(0, 0, 0);
+    font-family: initial;
+    text-shadow: 5px -1px 0 rgb(255, 255, 255);
+    text-transform: lowercase;
+
+    
+    
+}
+  .gif { float: right; width:200px ;
+border: groove salmon;
+}
   
 .center {
-    display: block;
+    display: inline-flexbox;
     margin-left: auto;
     margin-right: auto;
     width: 140px;
     height: 140px;
+    border : 5px groove salmon
 
    
 
@@ -30,10 +41,12 @@ body{
 }
 p { 
     font-size: large;
-    sty
+    font-family: initial;
+    
 }
 li {
     font-size: large;
+    font-family: initial
 }
   
 
